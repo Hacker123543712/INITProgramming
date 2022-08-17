@@ -5,5 +5,5 @@ Text is a collection of words or letters that can be read. We write text and is 
 # Calculator
 When we to talk about calculater there is something that comes on our mind that is calculating mathimatical signs + , - , * and /. But when we write one text with computer language the computer will display it after calculating it so these show as the relationship in text and calculater.
 
-#Storage
+# Storage
 In the above we see what is the relationship between text and computer and as well as the relationship between calculator and computer so after we write the text using computer language there some space that text will store and the text want the place that will store so again we see the relationship between the storage and computer.
